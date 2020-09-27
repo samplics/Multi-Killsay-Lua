@@ -13,4 +13,4 @@ All messages are entered into a settings.ini file which will be located in CSGO\
 ### **Screenshot of the LUA menu:**
 ![Screenshot of the LUA menu](https://i.gyazo.com/d9ab342617ba7560c8a34a75609e80f2.png)
 
-## **[DOWNLOAD](https://anonfiles.com/b1Td65Z4o8/Sampli-Multiple-Killsay_lua)**
+## **[DOWNLOAD](https://anonfiles.com/h7W569Zbof/Sampli-Multiple-Killsay_lua)**
